@@ -10567,9 +10567,24 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4323002340311866820, guid: 25a46d8542cafe1459fd5df173f95733,
         type: 3}
+      propertyPath: m_CustomReticle
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323002340311866820, guid: 25a46d8542cafe1459fd5df173f95733,
+        type: 3}
       propertyPath: m_InteractionManager
       value: 
       objectReference: {fileID: 1568783971}
+    - target: {fileID: 5196711157896842984, guid: 25a46d8542cafe1459fd5df173f95733,
+        type: 3}
+      propertyPath: m_ImplicitCom
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5196711157896842984, guid: 25a46d8542cafe1459fd5df173f95733,
+        type: 3}
+      propertyPath: m_ImplicitTensor
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8420611158283229267, guid: 25a46d8542cafe1459fd5df173f95733,
         type: 3}
       propertyPath: m_Name
